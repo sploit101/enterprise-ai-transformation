@@ -1,0 +1,9 @@
+Department,Executive_Sponsor,Process_Owner,Data_Owner,IT_Partner,Main_Concern
+Finance,CFO,Accounts Payable Lead,Finance Data Owner,Enterprise Apps,Accuracy of financial data and controls
+HR,HR Director,HR Operations Lead,HRIS Owner,IT Applications,"Privacy, fairness and employee trust"
+Procurement,Head of Procurement,Category / Process Lead,Procurement Data Owner,ERP / Data Team,Supplier-data quality and explainability
+Customer Service,Service Director,Contact Center Manager,CRM Owner,CRM / Integration Team,Response quality and customer experience
+Supply Chain,Supply Chain Director,Planning Manager,Planning Data Owner,Data & Analytics,Forecast reliability and planner adoption
+Sales,Sales Director,Sales Operations,CRM Owner,CRM / Data Team,Commercial relevance and user adoption
+Operations,Plant Director,Maintenance / Quality Manager,OT Data Owner,IT/OT,"Safety, reliability and integration effort"
+IT,CIO,Service Desk / Architecture,IT Data Owners,Information Security,"Security, access control and maintainability"

@@ -1,0 +1,11 @@
+Roadmap_ID,Phase,Use_Case_ID,Use_Case,Department,Timing,Business_Owner,Pilot_Success_Metric,Implementation_Note
+RM-01,Phase 1 - Quick Wins,AI-01,Invoice Processing Automation,Finance,0-3 months,Finance Process Owner,Reduce manual invoice entry time by 50% in pilot,Start with one invoice type and human approval.
+RM-02,Phase 1 - Quick Wins,AI-11,Ticket Triage & Routing,Customer Service,0-3 months,Customer Service Manager,Route >=85% of pilot tickets to the correct queue,Use confidence threshold and manual fallback.
+RM-03,Phase 1 - Quick Wins,AI-22,Internal IT Helpdesk Assistant,IT,0-3 months,IT Service Desk Lead,Deflect 25% of repetitive level-1 requests,Restrict answers to approved IT knowledge.
+RM-04,Phase 1 - Quick Wins,AI-08,Spend Classification & Supplier Insights,Procurement,0-3 months,Procurement Analytics Lead,Classify >=90% of pilot spend lines with acceptable accuracy,Begin with the highest-volume categories.
+RM-05,Phase 2 - Scale,AI-10,Support Copilot,Customer Service,3-6 months,Customer Service Manager,Reduce average handling time by 15% without lowering quality,Keep human approval before sending responses.
+RM-06,Phase 2 - Scale,AI-16,Lead Prioritization,Sales,3-6 months,Sales Operations,Improve conversion rate of top-priority leads in pilot,Use CRM history and monitor for feedback loops.
+RM-07,Phase 2 - Scale,AI-13,Demand Forecasting,Supply Chain,3-6 months,Supply Chain Planning Lead,Improve forecast accuracy versus current baseline,Run model in shadow mode before planner adoption.
+RM-08,Phase 2 - Scale,AI-04,Employee Knowledge Assistant,HR,3-6 months,HR Operations,Reduce repeat policy questions to HR service desk,Apply access controls and source citations.
+RM-09,Phase 3 - Strategic / Later,AI-19,Predictive Maintenance,Operations,6-12 months,Maintenance Manager,Reduce unplanned downtime in selected equipment group,Requires sensor-data readiness assessment first.
+RM-10,Phase 3 - Strategic / Later,AI-24,Secure Enterprise Search / RAG,IT,6-12 months,Enterprise Architecture,Reduce time spent searching for approved internal information,Information governance and permissions are prerequisites.

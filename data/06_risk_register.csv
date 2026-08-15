@@ -1,0 +1,9 @@
+Risk_ID,Risk,Description,Likelihood_1_5,Impact_1_5,Rating,Mitigation,Owner
+R-01,Data privacy,Sensitive employee or customer data may be exposed to an AI service.,3,5,High,"Data minimization, approved tools, access controls and privacy review.",Data Protection / IT
+R-02,Hallucinated or incorrect output,GenAI tools may produce plausible but incorrect answers.,4,4,High,"Source grounding, citations, confidence thresholds and human review.",Process Owner / IT
+R-03,Bias and fairness,AI-assisted people decisions may disadvantage certain groups.,3,5,High,"Keep human decision authority, test outcomes, document limitations.",HR / Legal
+R-04,Information security,"Enterprise data could be leaked through prompts, connectors or weak permissions.",3,5,High,"Private deployment options, least-privilege access and security testing.",Information Security
+R-05,Poor source-data quality,Incomplete or inconsistent data can reduce model performance.,4,4,High,"Data-quality checks, clear data ownership and pilot baselines.",Data Owner
+R-06,Low user adoption,Employees may avoid the tool if it does not fit the real workflow.,3,4,Medium,"Co-design pilots with users, training, feedback loops and simple UX.",Change Lead / Process Owner
+R-07,Integration complexity,"Connecting AI tools to ERP, CRM or OT systems may take longer than expected.",3,4,Medium,Start with low-integration pilots and validate interfaces early.,IT Architecture
+R-08,Vendor dependency,A solution may become hard to move or expensive to scale.,2,4,Medium,"Prefer modular architecture, exportable data and contract review.",IT / Procurement

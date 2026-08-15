@@ -1,0 +1,9 @@
+Department,Use_Case_Count,Average_Priority_Score,High_Priority_Count,Quick_Win_Count,Estimated_Annual_Value_kEUR,Estimated_Implementation_Cost_kEUR
+Finance,3,76.7,1,1,660,310
+HR,3,68.3,1,1,290,140
+Procurement,3,75.0,1,1,590,285
+Customer Service,3,84.7,3,3,600,200
+Supply Chain,3,72.0,0,0,910,470
+Sales,3,73.0,1,1,540,245
+Operations,3,69.7,0,0,930,540
+IT,3,77.3,1,1,640,285
