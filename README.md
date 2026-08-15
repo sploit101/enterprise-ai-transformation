@@ -187,4 +187,3 @@ enterprise-ai-transformation/
 
 ---
 
-**Note:** This repository is intended as a student portfolio project for learning and job applications. The analysis is structured to be explainable in an interview rather than to imitate a production consulting deliverable.
